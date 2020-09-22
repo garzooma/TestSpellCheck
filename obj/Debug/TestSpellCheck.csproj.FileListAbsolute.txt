@@ -1,0 +1,15 @@
+C:\Users\Owner\Source\Repos\TestSpellCheck\obj\Debug\TestSpellCheck.csprojAssemblyReference.cache
+C:\Users\Owner\Source\Repos\TestSpellCheck\obj\Debug\App.g.cs
+C:\Users\Owner\Source\Repos\TestSpellCheck\obj\Debug\TestSpellCheck_MarkupCompile.cache
+C:\Users\Owner\Source\Repos\TestSpellCheck\bin\Debug\TestSpellCheck.exe.config
+C:\Users\Owner\Source\Repos\TestSpellCheck\bin\Debug\TestSpellCheck.exe
+C:\Users\Owner\Source\Repos\TestSpellCheck\bin\Debug\TestSpellCheck.pdb
+C:\Users\Owner\Source\Repos\TestSpellCheck\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Source\Repos\TestSpellCheck\obj\Debug\TestSpellCheck_MarkupCompile.lref
+C:\Users\Owner\Source\Repos\TestSpellCheck\obj\Debug\MainWindow.baml
+C:\Users\Owner\Source\Repos\TestSpellCheck\obj\Debug\TestSpellCheck.g.resources
+C:\Users\Owner\Source\Repos\TestSpellCheck\obj\Debug\TestSpellCheck.Properties.Resources.resources
+C:\Users\Owner\Source\Repos\TestSpellCheck\obj\Debug\TestSpellCheck.csproj.GenerateResource.cache
+C:\Users\Owner\Source\Repos\TestSpellCheck\obj\Debug\TestSpellCheck.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Source\Repos\TestSpellCheck\obj\Debug\TestSpellCheck.exe
+C:\Users\Owner\Source\Repos\TestSpellCheck\obj\Debug\TestSpellCheck.pdb
