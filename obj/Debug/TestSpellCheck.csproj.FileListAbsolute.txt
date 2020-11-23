@@ -13,3 +13,5 @@ C:\Users\Owner\Source\Repos\TestSpellCheck\obj\Debug\TestSpellCheck.csproj.Gener
 C:\Users\Owner\Source\Repos\TestSpellCheck\obj\Debug\TestSpellCheck.csproj.CoreCompileInputs.cache
 C:\Users\Owner\Source\Repos\TestSpellCheck\obj\Debug\TestSpellCheck.exe
 C:\Users\Owner\Source\Repos\TestSpellCheck\obj\Debug\TestSpellCheck.pdb
+C:\Users\Owner\Source\Repos\TestSpellCheck\bin\Debug\customwords.lex
+C:\Users\Owner\Source\Repos\TestSpellCheck\obj\Debug\TestSpellCheck_Content.g.cs

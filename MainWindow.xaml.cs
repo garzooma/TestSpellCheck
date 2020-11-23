@@ -44,11 +44,10 @@ namespace TestSpellCheck
         sb.Append("\r\n");
       }
 
-
+      // Create in-memory Package to store custom dictionary
       UTF8Encoding encoding = new UTF8Encoding();
       var bytes = encoding.GetBytes(sb.ToString());
 
-      // Create in-memory Package to store the byte array
       MemoryStream stream = new MemoryStream();
       Package pack = Package.Open(stream, FileMode.Create, FileAccess.ReadWrite);
       Uri packUri = new Uri("SpellCheckDictionary:");
@@ -70,7 +69,7 @@ namespace TestSpellCheck
 
     private void Window_Closed(object sender, EventArgs e)
     {
-      textBox.SpellCheck.CustomDictionaries.Clear();
+      //textBox.SpellCheck.CustomDictionaries.Clear();
     }
   }
 }
